@@ -1,3 +1,5 @@
+Moved to https://git.opendlv.org.
+
 # opendlv-ui-videostream
 
 This repository provides the source code to hook into a shared memory video
